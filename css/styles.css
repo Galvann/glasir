@@ -11458,6 +11458,7 @@ html {
   .masthead {
     padding-top: calc(6rem + 104px);
     padding-bottom: 6rem;
+    margin: 0 0;
   }
   .masthead .masthead-heading {
     font-size: 4rem;
