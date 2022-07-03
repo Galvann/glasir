@@ -11511,6 +11511,10 @@ html {
   font-size: 1.5rem;
 }
 
+#port {
+  padding-left: 1rem;
+}
+
 .portfolio-modal .btn-close {
   color: #2c3e50;
   font-size: 2rem;
